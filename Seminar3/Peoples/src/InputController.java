@@ -1,7 +1,4 @@
-import Exceptions.ParseBornException;
-import Exceptions.ParseFioException;
-import Exceptions.ParseGenderException;
-import Exceptions.ParsePhoneException;
+import Exceptions.*;
 import Model.Human;
 import Model.Saver;
 import View.IView;
